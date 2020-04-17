@@ -1,0 +1,8 @@
+https://www.noip.com/members/dns/
+http://10.0.0.138/setup/connections/
+
+###############
+foobar.ddns.net
+79.178.39.162
+10.0.0.64
+###############

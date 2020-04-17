@@ -1,1 +1,0 @@
-# nano_raspi_cam
